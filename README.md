@@ -1,4 +1,4 @@
 # GROUP7_FINAL_PROJECT
 Final requirement in ECE 415-MICROPROCESSOR AND MICRO CONTROLLER SYSTEMS AND DESIGN
 
-<img src="IMG/finalproj.JPG">
+<img src="finalproj.JPG">
